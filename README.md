@@ -18,7 +18,7 @@ We have clustered Netflix Movies And TV Shows Data with K-Means Clustring and bu
  
  
 **Executable Files:**
-* TEAM_REALITY_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb - Includes all functions required for classification operations.
+* Netflix movie clustering.ipynb - Includes all functions required for classification operations.
 
 **Output:**
 * Google Colab - All the outputs are visible in the provided colab notebook.
