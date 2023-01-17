@@ -24,7 +24,7 @@ We have clustered Netflix Movies And TV Shows Data with K-Means Clustring and bu
 * Google Colab - All the outputs are visible in the provided colab notebook.
 
 **Data Source:**
-* Dataset - https://www.kaggle.com/shivamb/netflix-shows
+* Dataset - https://drive.google.com/file/d/1qL5TOac80aA5dI62Kea9lYEJEaJwG_pl/view?usp=sharing
 
 ![rainbow](https://user-images.githubusercontent.com/109465304/211596527-7be7221e-8097-4d03-a9be-83f1b6f79876.png)
 
